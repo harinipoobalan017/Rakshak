@@ -32,33 +32,19 @@ AI-Powered Emergency Management & Smart Protection Platform built using modern w
 
 ### Homepage
 
-![Homepage](images/HomePage.png)
-
----
-
-### Dashboard
-
-![Dashboard](images/Dashboard.png)
-
----
-
-### Analytics
-
-![Analytics](images/Analytics.png)
-
----
-
-### Graphs
-
-![Graphs](images/Graphs.png)
+![Homepage](images/Home.png)
 
 ---
 
 ### Network Monitoring
 
-![Network](images/Network.png)
+![Network](images/network.png)
 
 ---
+
+### Graph Visualization
+
+![Graphs](images/graph.png)
 
 ## 📌 Future Enhancements
 
