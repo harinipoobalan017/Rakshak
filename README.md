@@ -56,6 +56,29 @@ AI-Powered Emergency Management & Smart Protection Platform built using modern w
 - Multi-User Access Control
 
 ---
+# ⚙️ Installation & Setup
+
+## Clone Repository
+
+```bash
+git clone <repository-url>
+```
+
+## Frontend Setup
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+## Backend Setup
+
+```bash
+cd backend
+npm install
+node server.js
+```
 
 ## 👩‍💻 Developer
 
