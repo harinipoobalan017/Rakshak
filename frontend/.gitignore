@@ -22,3 +22,23 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Environment files
+.env
+backend/.env
+frontend/.env
+
+# Uploads
+uploads/
+backend/uploads/
+
+# Build files
+build/
+coverage/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+Thumbs.db
